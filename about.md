@@ -2,7 +2,7 @@
 layout: page
 title: About Tony Sheppard
 permalink: /about/
-feature_image: "/assets/kybd2.jpg"
+feature_image: "/assets/kybd2-min.jpg"
 ---
 
 Audiences have been enjoying Tony's shows for over 50 years! He's been a

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Booking Tony Sheppard in Ensemble
-feature_image: "/assets/kybd2.jpg"
+feature_image: "/assets/kybd2-min.jpg"
 permalink: /bookings/
 ---
 

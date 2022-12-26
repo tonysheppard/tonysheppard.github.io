@@ -9,7 +9,7 @@ Tony is a professional jazz and swing musician providing live music entertainmen
 throughout Gloucestershire and the Cotswolds.
 
 Tony has many years of performing experience on keyboards, vocals,
-and trombone. He works with many other musicians to form ensembles
+and trombone. He works with many other musicians in ensembles
 suitable for any occasion.
 
 ### Book Tony With an Ensemble
@@ -29,7 +29,7 @@ the show.
 
 [Book Tony with a small ensemble or a Big Band](/bookings/)
 
-![Tony Sheppard playing keyboard in an outdoor bandstand, with trees out of focus in the far distance. He wears a small smile of concentrated happiness. A trombone is visible by his left hand.](/assets/musicstand-zoom.jpg)
+![Tony Sheppard playing keyboard in an outdoor bandstand, with trees out of focus in the far distance. He wears a small smile of concentrated happiness. A trombone is visible by his left hand.](/assets/musicstand-zoom-min.jpg)
 
 Tony is a member of the Musicians' Union and carries Public Liability
 Insurance.
