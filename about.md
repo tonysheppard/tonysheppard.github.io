@@ -13,11 +13,11 @@ hundred thousand people.
 
 Tony conducts the Glevum Big Band, and he conducted the Crescendo Big
 Band for many years. He performed as part of the Ain't Misbehavin' duo
-for over 15 years and led GYJO, the Gloucestershire Youth Jazz
-Orchestra.
+for over 20 years and led GYJO, the Gloucestershire Youth Jazz
+Orchestra, for almost 25 years.
 
 Nothing elevates an event like live music. You will appreciate
-musicians who can blend into the background or take center stage with
+musicians who can blend into the background or take centre stage with
 style, depending on the needs of your event. Guests will leave your
 event with fond memories.
 

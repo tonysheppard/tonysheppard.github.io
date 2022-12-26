@@ -8,7 +8,7 @@ feature_image: "/assets/jetbone.jpg"
 Tony is a professional jazz and swing musician providing live music entertainment
 throughout Gloucestershire and the Cotswolds.
 
-Tony has many years of performaing experience on keyboards, vocals,
+Tony has many years of performing experience on keyboards, vocals,
 and trombone. He works with many other musicians to form ensembles
 suitable for any occasion.
 
